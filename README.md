@@ -8,6 +8,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 
 1. Orgnization of this paper
 ![](orgnization.jpg)
+ <img src="orgnization.jpg" width = "80%" height = "80%"
 2. Main taxonomy
 ![](main_taxonomy.jpg){:height="50%" width="50%"}
 
