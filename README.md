@@ -11,7 +11,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 2. Main taxonomy of TTS
  <img src="main_taxonomy.jpg" width = "80%" height = "80%" />
 3. TTS data flow
- <iframe src="TTS_data_flow.pdf" width = "80%" height = "80%" ></iframe>
+ <object data="TTS_data_flow.pdf" type='application/pdf'></object>
 4. Other taxonomies
  <img src="other_taxonomy.jpg" width = "80%" height = "80%" />
 5. Category of adanced topics in TTS
