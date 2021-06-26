@@ -11,7 +11,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 2. Main taxonomy of TTS
  <img src="main_taxonomy.jpg" width = "80%" height = "80%" />
 3. TTS data flow
- <img src="TTS_data_flow.pdf" width = "80%" height = "80%" />
+ <embed src="TTS_data_flow.pdf" width = "80%" height = "80%" />
 4. Other taxonomies
  <img src="other_taxonomy.jpg" width = "80%" height = "80%" />
 5. Category of adanced topics in TTS
@@ -19,12 +19,12 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 6. Time evolution of TTS
 <img src="TTS_time_flow.pdf" width = "80%" height = "80%" />
 7. A list of TTS models
-<img src="paper list.jpg" width = "80%" height = "80%" />
+<img src="paper_list.jpg" width = "80%" height = "80%" />
 
 Comments and suggestions are warmly welcomed!
 
 
-## Refereence Paper
+## References
 [1] Ronald Brian Adler, George R Rodman, and Alexandre Sévigny. Understanding human communication. Holt, Rinehart and Winston Chicago, 1991. <br>
 [2] Vatsal Aggarwal, Marius Cotescu, Nishant Prateek, Jaime Lorenzo-Trueba, and Roberto BarraChicote. Using vaes and normalizing flows for one-shot text-to-speech synthesis of expressive speech. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 6179–6183. IEEE, 2020. <br>
 [3] Yang Ai and Zhen-Hua Ling. A neural vocoder with hierarchical generation of amplitude and phase spectra for statistical parametric speech synthesis. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 28:839–851, 2020. <br>
