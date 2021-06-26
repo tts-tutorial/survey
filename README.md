@@ -17,7 +17,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 5. Category of adanced topics in TTS
  <img src="advanced_taxonomy.jpg" width = "80%" height = "80%" />
 6. Time evolution of TTS
-<embed src="tts_tutorial.github.io/survey/TTS_time_flow.pdf" />
+<embed src="tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" />
 
 
 7. A list of TTS models
