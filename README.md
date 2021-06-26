@@ -18,6 +18,12 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
  <img src="advanced_taxonomy.jpg" width = "80%" height = "80%" />
 6. Time evolution of TTS
 <embed src="TTS_time_flow.pdf" type="application/pdf" >
+<object data="TTS_time_flow.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="TTS_time_flow.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 7. A list of TTS models
 <img src="paper_list.jpg" width = "80%" height = "80%" />
 
