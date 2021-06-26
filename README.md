@@ -17,16 +17,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 5. Category of adanced topics in TTS
  <img src="advanced_taxonomy.jpg" width = "80%" height = "80%" />
 6. Time evolution of TTS
-![zxx](https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf)
-<img src="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" width = "80%" height = "80%" />
-<embed src="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" type="application/pdf" >
-<object data="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
+<img src="TTS_time_flow.jpg" width = "80%" height = "80%" />
 7. A list of TTS models
 <img src="paper_list.jpg" width = "80%" height = "80%" />
 
