@@ -6,14 +6,20 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 
 ## Some Taxonomies and Paper Lists
 
-1. Orgnization of this paper
-![](orgnization.jpg)
+1. Orgnization of this survey paper
  <img src="orgnization.jpg" width = "80%" height = "80%" />
-2. Main taxonomy
-![](main_taxonomy.jpg){:height="50%" width="50%"}
-
-
-
+2. Main taxonomy of TTS
+ <img src="main_taxonomy.jpg" width = "80%" height = "80%" />
+3. TTS data flow
+ <img src="TTS_data_flow.pdf" width = "80%" height = "80%" />
+4. Other taxonomies
+ <img src="other_taxonomy.jpg" width = "80%" height = "80%" />
+5. Category of adanced topics in TTS
+ <img src="advanced_taxonomy.jpg" width = "80%" height = "80%" />
+6. Time evolution of TTS
+<img src="TTS_time_flow.pdf" width = "80%" height = "80%" />
+7. A list of TTS models
+<img src="paper list.jpg" width = "80%" height = "80%" />
 
 Comments and suggestions are warmly welcomed!
 
