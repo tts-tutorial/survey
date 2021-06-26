@@ -7,7 +7,9 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 ## Some Taxonomies and Paper Lists
 
 1. Orgnization of this paper
-![orgnization](orgnization.JPG)
+![](orgnization.jpg =100x100)
+2. Main taxonomy
+![](main_taxonomy.jpg =100x100)
 
 
 
