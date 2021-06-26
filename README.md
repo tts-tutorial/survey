@@ -19,6 +19,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
 6. Time evolution of TTS
 ![zxx](https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf)
 <img src="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" width = "80%" height = "80%" />
+<embed src="https://tts-tutorial.github.io/ijcai2021/TTS_time_flow.pdf" type="application/pdf" >
 
 7. A list of TTS models
 <img src="paper_list.jpg" width = "80%" height = "80%" />
