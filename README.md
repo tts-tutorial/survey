@@ -1,5 +1,7 @@
 # [A Survey on Neural Speech Synthesis](#)
-[Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
+[Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/), [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)<br>
+{xuta, taoqin, frankkps, tyliu}@microsoft.com <br>
+Microsoft Research Asia
 
 ## Introduction
 Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible and natural speech given text, has been a hot research topic in speech, language, and machine learning communities and has become an important commercial service in the industry. As the development of deep learning and artificial intelligence, neural network-based TTS has significantly improved the quality of synthesized speech in recent years. In this paper, we conduct a comprehensive survey on neural TTS, aiming to provide a good understanding of current research and future trends. We focus on the key components in neural TTS, including text analysis, acoustic models and vocoders, and several advanced topics, including fast TTS, low-resource TTS, robust TTS, expressive TTS, and adaptive TTS, etc. We further summarize resources related to TTS (e.g., datasets, opensource implementations), and discuss future research directions. This survey can serve both academic researchers and industry practitioners working on TTS. 
