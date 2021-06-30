@@ -1,4 +1,4 @@
-# [A Survey on Neural Speech Synthesis](#)
+# [A Survey on Neural Speech Synthesis](https://arxiv.org/pdf/2106.15561.pdf)
 [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/), [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)<br>
 {xuta, taoqin, frankkps, tyliu}@microsoft.com <br>
 Microsoft Research Asia
