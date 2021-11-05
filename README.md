@@ -16,7 +16,7 @@ Text to speech (TTS), or speech synthesis, which aims to synthesize intelligible
  <img src="TTS_data_flow.jpg" width = "80%" height = "80%" />
 4. Other taxonomies
  <img src="other_taxonomy.jpg" width = "80%" height = "80%" />
-5. Category of adanced topics in TTS
+5. Category of advanced topics in TTS
  <img src="advanced_taxonomy.jpg" width = "80%" height = "80%" />
 6. Time evolution of TTS
 <img src="TTS_time_flow.jpg" width = "80%" height = "80%" />
